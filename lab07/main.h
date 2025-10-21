@@ -7,3 +7,4 @@ int getRandomInt(int, int);
 
 void task01();
 void task02();
+void task03();
